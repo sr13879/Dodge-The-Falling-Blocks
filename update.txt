@@ -1,1 +1,0 @@
-The original code is no longer up to date for my game as it is not yet integrated with SupaBase. I'm planning to integrate SupaBase to have a permanent, global leaderboard.
